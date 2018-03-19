@@ -1,0 +1,43 @@
+.z100 {
+    z-index: -9999;
+}
+
+.script-font {
+    font-family: script;
+    color: white;
+}
+
+.heading {
+    font-size: 6.2em;
+    font-family: script;
+    color: white;
+    padding-top: 15%;
+}
+
+.iconicon {
+    color: white;
+    size : 0.5em;
+    
+}
+.iconicon :hover {
+    color : #c1c1c1;
+}
+
+.alt-font {
+    font-family: 'Comfortaa', cursive;
+    font-size: 0.2em;
+}
+
+.typing{
+    display: inline-block;
+    min-height: 24px;
+}
+
+.explore{
+    padding-top: 2%;
+}
+
+.explore-btn {
+    background-color: #6a176a !important;
+    color: white !important;
+}
